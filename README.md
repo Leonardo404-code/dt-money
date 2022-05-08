@@ -1,20 +1,33 @@
-# Getting Started with Create React App
+# Dt money
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dt money is a application for finances control, Where you will have access to:
 
-## Available Scripts
+- O quanto você gastou
+- O quanto você recebeu
+- O total na sua conta
 
-In the project directory, you can run:
+Dt Money is build with ReactJs in course Ignite by Rocketseat
 
-### `npm start`
+### How works
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Clone project
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```markdown
+git clone https://github.com/Leonardo404-code/dt-money.git
+```
 
-### `npm test`
+install all dependencies
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```jsx
+npm install
+// or
+yarn install
+```
+
+Start applications
+
+```jsx
+npm start
+// or
+yarn start
+```
