@@ -2,9 +2,9 @@
 
 Dt money is a application for finances control, Where you will have access to:
 
-- O quanto você gastou
-- O quanto você recebeu
-- O total na sua conta
+- how much did you spend
+- how much did you incomes
+- The total in your account
 
 Dt Money is build with ReactJs in course Ignite by Rocketseat
 
